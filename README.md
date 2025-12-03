@@ -50,6 +50,9 @@ CIRCUIT DIAGRAM
 ---
 ## DESIGN
 ![WhatsApp Image 2025-12-03 at 14 37 30_8f084893](https://github.com/user-attachments/assets/ccda319b-badb-4ba1-a760-03a9cd4a7505)
+![WhatsApp Image 2025-12-03 at 16 08 48_e95d7270](https://github.com/user-attachments/assets/a9ade536-1e9a-404f-bcf2-8b36efb73ae1)
+![WhatsApp Image 2025-12-03 at 16 08 11_865f5e71](https://github.com/user-attachments/assets/7a6dfad6-5f52-46bb-896f-daeed4802fff)
+
 
 
 ## PROCEDURE
