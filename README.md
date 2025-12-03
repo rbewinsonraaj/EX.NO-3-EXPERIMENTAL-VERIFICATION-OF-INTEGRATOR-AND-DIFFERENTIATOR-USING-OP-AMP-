@@ -48,6 +48,9 @@ CIRCUIT DIAGRAM
 
 
 ---
+## DESIGN
+![WhatsApp Image 2025-12-03 at 14 37 30_8f084893](https://github.com/user-attachments/assets/ccda319b-badb-4ba1-a760-03a9cd4a7505)
+
 
 ## PROCEDURE
 
@@ -136,7 +139,7 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 ---
 
 RESULT:
-Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
+
 ---
 
 ![WhatsApp Image 2025-11-29 at 13 25 52_137b7aa0](https://github.com/user-attachments/assets/6cb8e902-44e2-42eb-9ae1-78ef708d59f9)
